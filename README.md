@@ -1,8 +1,5 @@
 ## Hi there 👋,I am Yogesh a Frontend Developer.Working on learning FullStack Devlopment 👨‍💻.
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on learning Full Stack Development 🏹.
 - 🌱 I’m currently learning Frontend Devlopment.
 - 👯 I’m looking to collaborate on Open Source.
